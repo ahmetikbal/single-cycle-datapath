@@ -1,0 +1,16 @@
+# Error opening C:/intelFPGA/comporgproject2/adder.v
+# Path name 'C:/intelFPGA/comporgproject2/adder.v' doesn't exist.
+# Error opening C:/intelFPGA/comporgproject2/adder.v
+# Path name 'C:/intelFPGA/comporgproject2/adder.v' doesn't exist.
+# Error opening C:/intelFPGA/comporgproject2/control.v
+# Path name 'C:/intelFPGA/comporgproject2/control.v' doesn't exist.
+# Compile of adder.v was successful.
+# Compile of alu32.v was successful.
+# Compile of alucont.v was successful.
+# Compile of control.v was successful.
+# Compile of mult2_to_1_5.v was successful.
+# Compile of mult2_to_1_32.v was successful.
+# Compile of processor.v was successful.
+# Compile of shift.v was successful.
+# Compile of signext.v was successful.
+# 9 compiles, 0 failed with no errors.

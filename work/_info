@@ -10,7 +10,7 @@ z2
 cModel Technology
 dC:/intelFPGA/20.1
 vadder
-Z0 !s110 1747954831
+Z0 !s110 1748011822
 !i10b 1
 !s100 gWb<;Y:[8c^V3JALeYLDZ1
 Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
@@ -20,13 +20,13 @@ Z3 dC:/intelFPGA/comporgproject2/single-cycle-datapath
 w955028208
 8C:/intelFPGA/comporgproject2/single-cycle-datapath/adder.v
 FC:/intelFPGA/comporgproject2/single-cycle-datapath/adder.v
-!i122 0
+!i122 37
 Z4 L0 1 5
 Z5 OV;L;2020.1;71
 r1
 !s85 0
 31
-Z6 !s108 1747954831.000000
+Z6 !s108 1748011822.000000
 !s107 C:/intelFPGA/comporgproject2/single-cycle-datapath/adder.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/comporgproject2/single-cycle-datapath/adder.v|
 !i113 1
@@ -35,74 +35,166 @@ Z8 tCvgOpt 0
 valu32
 R0
 !i10b 1
-!s100 642S2CI=2JZ[e3A8<IAES1
+!s100 E0H1IKjnzI_mIT;Z;_Qi[2
 R1
-I:lBXb@>J1I^e@dgVdI7zT1
+IzkX72=M49kjiPUl1D3Faj2
 R2
 R3
-w1524644522
-8C:/intelFPGA/comporgproject2/single-cycle-datapath/alu32.v
-FC:/intelFPGA/comporgproject2/single-cycle-datapath/alu32.v
-!i122 1
-L0 1 24
+w1748011777
+Z9 8C:/intelFPGA/comporgproject2/single-cycle-datapath/alu32.v
+Z10 FC:/intelFPGA/comporgproject2/single-cycle-datapath/alu32.v
+!i122 38
+L0 3 38
 R5
 r1
 !s85 0
 31
 R6
-!s107 C:/intelFPGA/comporgproject2/single-cycle-datapath/alu32.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/comporgproject2/single-cycle-datapath/alu32.v|
+Z11 !s107 C:/intelFPGA/comporgproject2/single-cycle-datapath/alu32.v|
+Z12 !s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/comporgproject2/single-cycle-datapath/alu32.v|
+!i113 1
+R7
+R8
+valu32_modified
+Z13 !s110 1747988535
+!i10b 1
+!s100 @U4Gk4R=zlWDA2OM3BDU70
+R1
+IY0Phdk]HT>h@ZK0UmFARU3
+R2
+R3
+Z14 w1747961087
+R9
+R10
+!i122 24
+L0 4 38
+R5
+r1
+!s85 0
+31
+Z15 !s108 1747988535.000000
+R11
+R12
 !i113 1
 R7
 R8
 valucont
 R0
 !i10b 1
-!s100 WNj?TV[KMiShkFIW>Oe6^3
+!s100 7XTo5eTZ4`WK6ZTPMoo]k1
 R1
-I@64X=l:=;7U_c?:3N7mD_0
+I8;BE862gO?3;ezhFml:kY3
 R2
 R3
-w1524646434
-8C:/intelFPGA/comporgproject2/single-cycle-datapath/alucont.v
-FC:/intelFPGA/comporgproject2/single-cycle-datapath/alucont.v
-!i122 2
-Z9 L0 1 18
+w1748011782
+Z16 8C:/intelFPGA/comporgproject2/single-cycle-datapath/alucont.v
+Z17 FC:/intelFPGA/comporgproject2/single-cycle-datapath/alucont.v
+!i122 39
+L0 3 29
 R5
 r1
 !s85 0
 31
 R6
-!s107 C:/intelFPGA/comporgproject2/single-cycle-datapath/alucont.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/comporgproject2/single-cycle-datapath/alucont.v|
+Z18 !s107 C:/intelFPGA/comporgproject2/single-cycle-datapath/alucont.v|
+Z19 !s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/comporgproject2/single-cycle-datapath/alucont.v|
+!i113 1
+R7
+R8
+valucont_modified
+R13
+!i10b 1
+!s100 1Z]NH3YYFEgjI_z4P9PI42
+R1
+IR__iVa`VMg75DU8=?l81b3
+R2
+R3
+R14
+R16
+R17
+!i122 25
+L0 4 29
+R5
+r1
+!s85 0
+31
+R15
+R18
+R19
 !i113 1
 R7
 R8
 vcontrol
 R0
 !i10b 1
-!s100 PhfnL9fC73L`o8o3fEA3b3
+!s100 ]<UR_XJ_m6O@3Bo<dW7Uz3
 R1
-IDLAC?S;l7ezo7]42cZk0@2
+I<>7;a=iXSC>NU3GGP:Xf_3
 R2
 R3
-w955028062
-8C:/intelFPGA/comporgproject2/single-cycle-datapath/control.v
-FC:/intelFPGA/comporgproject2/single-cycle-datapath/control.v
-!i122 3
-R9
+w1748011763
+Z20 8C:/intelFPGA/comporgproject2/single-cycle-datapath/control.v
+Z21 FC:/intelFPGA/comporgproject2/single-cycle-datapath/control.v
+!i122 40
+L0 3 44
 R5
 r1
 !s85 0
 31
 R6
-!s107 C:/intelFPGA/comporgproject2/single-cycle-datapath/control.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/comporgproject2/single-cycle-datapath/control.v|
+Z22 !s107 C:/intelFPGA/comporgproject2/single-cycle-datapath/control.v|
+Z23 !s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/comporgproject2/single-cycle-datapath/control.v|
+!i113 1
+R7
+R8
+vcontrol_modified
+R13
+!i10b 1
+!s100 PL7DU8fMboAC1a]7VdEWl1
+R1
+IQT>2V@A_cED5S5Qjkag[51
+R2
+R3
+R14
+R20
+R21
+!i122 26
+L0 4 44
+R5
+r1
+!s85 0
+31
+R15
+R22
+R23
+!i113 1
+R7
+R8
+vequality_comparator
+R0
+!i10b 1
+!s100 [nNTOdK?aG``?@?z9J9;n2
+R1
+I4oYUBjOGS9]b>0NLa>9bD0
+R2
+R3
+R14
+8C:/intelFPGA/comporgproject2/single-cycle-datapath/equality_comparator.v
+FC:/intelFPGA/comporgproject2/single-cycle-datapath/equality_comparator.v
+!i122 41
+L0 5 8
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/intelFPGA/comporgproject2/single-cycle-datapath/equality_comparator.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/comporgproject2/single-cycle-datapath/equality_comparator.v|
 !i113 1
 R7
 R8
 vmult2_to_1_32
-Z10 !s110 1747954832
+R0
 !i10b 1
 !s100 Y_Id<LIRQ3DbCYAcIf6lb3
 R1
@@ -112,20 +204,20 @@ R3
 w1021135086
 8C:/intelFPGA/comporgproject2/single-cycle-datapath/mult2_to_1_32.v
 FC:/intelFPGA/comporgproject2/single-cycle-datapath/mult2_to_1_32.v
-!i122 5
-Z11 L0 1 6
+!i122 43
+Z24 L0 1 6
 R5
 r1
 !s85 0
 31
-Z12 !s108 1747954832.000000
+R6
 !s107 C:/intelFPGA/comporgproject2/single-cycle-datapath/mult2_to_1_32.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/comporgproject2/single-cycle-datapath/mult2_to_1_32.v|
 !i113 1
 R7
 R8
 vmult2_to_1_5
-R10
+R0
 !i10b 1
 !s100 QeR<>khHHW047@W2MP@;I2
 R1
@@ -135,8 +227,8 @@ R3
 w955028066
 8C:/intelFPGA/comporgproject2/single-cycle-datapath/mult2_to_1_5.v
 FC:/intelFPGA/comporgproject2/single-cycle-datapath/mult2_to_1_5.v
-!i122 4
-R11
+!i122 42
+R24
 R5
 r1
 !s85 0
@@ -147,31 +239,77 @@ R6
 !i113 1
 R7
 R8
-vprocessor
-R10
+vmult3_to_1_32
+R0
 !i10b 1
-!s100 eajbFZK^`l96:D]cCmBYn0
+!s100 _Sn^6MF7KE5VSEKNKIbX`0
 R1
-ICO>DQA:Lc1[AOhe>jLnIZ0
+I35Q5c`992=m3jV?zbXA2n0
 R2
 R3
-w1524644492
-8C:/intelFPGA/comporgproject2/single-cycle-datapath/processor.v
-FC:/intelFPGA/comporgproject2/single-cycle-datapath/processor.v
-!i122 6
-L0 1 148
+R14
+8C:/intelFPGA/comporgproject2/single-cycle-datapath/mult3_to_1_32.v
+FC:/intelFPGA/comporgproject2/single-cycle-datapath/mult3_to_1_32.v
+!i122 44
+L0 5 10
 R5
 r1
 !s85 0
 31
-R12
+R6
+!s107 C:/intelFPGA/comporgproject2/single-cycle-datapath/mult3_to_1_32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/comporgproject2/single-cycle-datapath/mult3_to_1_32.v|
+!i113 1
+R7
+R8
+vprocessor
+R0
+!i10b 1
+!s100 PRimfzU:0jARhh0=45[6<3
+R1
+IOG4h4XRfTDo_c44XFLYn30
+R2
+R3
+w1748011758
+8C:\intelFPGA\comporgproject2\single-cycle-datapath\processor.v
+FC:\intelFPGA\comporgproject2\single-cycle-datapath\processor.v
+!i122 45
+L0 3 206
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:\intelFPGA\comporgproject2\single-cycle-datapath\processor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\intelFPGA\comporgproject2\single-cycle-datapath\processor.v|
+!i113 1
+R7
+R8
+vprocessor_modified
+R13
+!i10b 1
+!s100 ]3oC:eE>G<hF9NEMC0]^d0
+R1
+I@F[AcR2[5M9^IdeUnj[Ed2
+R2
+R3
+R14
+8C:/intelFPGA/comporgproject2/single-cycle-datapath/processor.v
+FC:/intelFPGA/comporgproject2/single-cycle-datapath/processor.v
+!i122 31
+L0 4 206
+R5
+r1
+!s85 0
+31
+R15
 !s107 C:/intelFPGA/comporgproject2/single-cycle-datapath/processor.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/comporgproject2/single-cycle-datapath/processor.v|
 !i113 1
 R7
 R8
 vshift
-R10
+Z25 !s110 1748011823
 !i10b 1
 !s100 XX2;Z1lf9Dd@dcO[G5lL:2
 R1
@@ -181,20 +319,20 @@ R3
 w955028064
 8C:/intelFPGA/comporgproject2/single-cycle-datapath/shift.v
 FC:/intelFPGA/comporgproject2/single-cycle-datapath/shift.v
-!i122 7
+!i122 46
 R4
 R5
 r1
 !s85 0
 31
-R12
+Z26 !s108 1748011823.000000
 !s107 C:/intelFPGA/comporgproject2/single-cycle-datapath/shift.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/comporgproject2/single-cycle-datapath/shift.v|
 !i113 1
 R7
 R8
 vsignext
-R10
+R25
 !i10b 1
 !s100 aj?PFk=ka=A4[;Kz]?d6F3
 R1
@@ -204,15 +342,84 @@ R3
 w1335991790
 8C:/intelFPGA/comporgproject2/single-cycle-datapath/signext.v
 FC:/intelFPGA/comporgproject2/single-cycle-datapath/signext.v
-!i122 8
+!i122 47
 R4
 R5
 r1
 !s85 0
 31
-R12
+R26
 !s107 C:/intelFPGA/comporgproject2/single-cycle-datapath/signext.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/comporgproject2/single-cycle-datapath/signext.v|
+!i113 1
+R7
+R8
+vstatus_register
+R25
+!i10b 1
+!s100 l3:`[YDWGHW;SVUToChoS0
+R1
+IEVdkilc1YOCNQ]aUIVnF:0
+R2
+R3
+R14
+8C:/intelFPGA/comporgproject2/single-cycle-datapath/status_register.v
+FC:/intelFPGA/comporgproject2/single-cycle-datapath/status_register.v
+!i122 48
+L0 5 17
+R5
+r1
+!s85 0
+31
+R26
+!s107 C:/intelFPGA/comporgproject2/single-cycle-datapath/status_register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/comporgproject2/single-cycle-datapath/status_register.v|
+!i113 1
+R7
+R8
+vtestbench
+R25
+!i10b 1
+!s100 R<^1jR`9]c>=nLeBIEN?J3
+R1
+IJU8oWUS5nZklX49;j5@2A0
+R2
+R3
+R14
+8C:/intelFPGA/comporgproject2/single-cycle-datapath/testbench.v
+FC:/intelFPGA/comporgproject2/single-cycle-datapath/testbench.v
+!i122 49
+L0 4 27
+R5
+r1
+!s85 0
+31
+R26
+!s107 C:/intelFPGA/comporgproject2/single-cycle-datapath/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/comporgproject2/single-cycle-datapath/testbench.v|
+!i113 1
+R7
+R8
+vzeroext
+R25
+!i10b 1
+!s100 ;k[?JLg9R9dRRLQclC3jR1
+R1
+IncV5h<4kmj6^n<UIV^BlV3
+R2
+R3
+R14
+8C:/intelFPGA/comporgproject2/single-cycle-datapath/zeroext.v
+FC:/intelFPGA/comporgproject2/single-cycle-datapath/zeroext.v
+!i122 50
+L0 5 7
+R5
+r1
+!s85 0
+31
+R26
+!s107 C:/intelFPGA/comporgproject2/single-cycle-datapath/zeroext.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/comporgproject2/single-cycle-datapath/zeroext.v|
 !i113 1
 R7
 R8

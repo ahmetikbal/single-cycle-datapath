@@ -1,0 +1,37 @@
+// Test instructions for MIPS processor with new instructions
+// Each instruction tests one of the 7 new instructions
+
+// Instruction memory values
+// Format: [address] [machine code]
+
+// 1. lwnor instruction (R-type, func=23): lwnor $3, $1, $2, 4
+@00 00221823
+
+// 2. pop instruction (I-type, opcode=19): pop $4
+@04 4C800000
+
+// 3. beqm instruction (R-type, func=24): beqm $5, $1, $2, 8
+@08 00222824
+
+// 4. cmpeq instruction (R-type, func=46): cmpeq $6, $1, $2
+@0C 00222E00
+
+// 5. cmpli instruction (I-type, opcode=38): cmpli $1, $7, 10
+@10 9801000A
+
+// 6. blti instruction (I-type, opcode=44): blti $1, $8, 15
+@14 B001000F
+
+// 7. baln instruction (J-type, opcode=27): baln 100
+@18 6C000064
+
+// Additional test instructions
+// Load values for testing
+@1C 8C010000 // lw $1, 0($0) - Load value from memory address 0 to $1
+@20 8C020004 // lw $2, 4($0) - Load value from memory address 4 to $2
+
+// Store $sp for pop instruction
+@24 AC1D001C // sw $29, 28($0) - Store $sp value to memory address 28
+
+// Jump back to start for testing loop
+@28 08000000 // j 0 - Jump back to start

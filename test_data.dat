@@ -1,0 +1,12 @@
+// Test data for MIPS processor with new instructions
+// Memory initialization for testing
+
+// Data memory values
+@00 11223344 // Address 0: Test data
+@04 55667788 // Address 4: Test data
+@08 99AABBCC // Address 8: Test data
+@0C DDEEFF00 // Address 12: Test data
+@10 12345678 // Address 16: Test data
+@14 9ABCDEF0 // Address 20: Test data
+@18 FEDCBA98 // Address 24: Test data
+@1C 76543210 // Address 28: Test data ($sp initial value)
